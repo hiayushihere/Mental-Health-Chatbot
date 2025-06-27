@@ -38,13 +38,21 @@ Deployment (Future Scope): Flask or Gradio interface
 
 -> How It Works
 Input: The user submits a text expressing feelings.
+
 Step 1 - Stress Detection:
 A RoBERTa model checks if the user is stressed.
+
 Step 2 - Stress Type Prediction (if stressed):
 The chatbot identifies the likely stress category based on subreddit labels.
+
 Step 3 - Response Generation:
 A fine-tuned Mistral/GPT model generates an empathetic response tailored to the user's context.
+
 Output: The response is displayed. The user may continue the conversation or type "stop" to exit.
+
+<img width="1374" alt="Screenshot 2025-05-11 at 12 56 00 AM" src="https://github.com/user-attachments/assets/42536aff-e82d-4eef-b89c-d9a8230bc494" />
+<img width="1404" alt="Screenshot 2025-05-11 at 12 46 11 AM" src="https://github.com/user-attachments/assets/018be5de-2c55-4efa-9165-44ffac556f7b" />
+
 
 -> About Me
 Final year student passionate about NLP, mental health, and building empathetic AI systems.
@@ -56,3 +64,4 @@ Thanks to the open-source community and dataset creators for their foundational 
 
 -> Final Note
 This chatbot is not a substitute for professional mental health care. If you're struggling, please reach out to a certified therapist or counselor. ❤️
+
