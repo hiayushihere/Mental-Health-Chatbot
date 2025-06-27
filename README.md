@@ -57,8 +57,11 @@ Output: The response is displayed. The user may continue the conversation or typ
 -> About Me
 Final year student passionate about NLP, mental health, and building empathetic AI systems.
 Open to work in machine learning, AI research, and product roles in tech.
+
 LinkedIn - https://www.linkedin.com/in/ayushi-singh-77053a271/
+
 Email id - Ayushi87u@gmail.com
+
 -> Contributions & Acknowledgments
 Inspired by real-world challenges in mental health awareness and support.
 Thanks to the open-source community and dataset creators for their foundational work.
